@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ghaddah</h1>
 <h3 align="center">A passionate student looking to break in as a Software Engineer</h3>
 
-- 🔭 I’m currently working on **3D Web-Dev**
+- 🔭 I’m currently working on **Building Products For Future of Black Students**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **React & Java**
+- 💬 Ask me about **System Design or User Facing Design**
 
 - 📫 How to reach me **a.ghaddah@gmail.com**
 
