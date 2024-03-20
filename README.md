@@ -1,5 +1,5 @@
 <h1 align="center">Kid from Africa Trying To Learn The Game</h1>
-<h3 align="center">obessed with design</h3>
+<h3 align="center">Obessed With Design</h3>
 
 - ⚡ On that SwiftUI and Animation Grind 
 
