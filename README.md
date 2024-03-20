@@ -1,5 +1,5 @@
 <h1 align="center">Kid from Africa Trying To Learn The Game 🌍 </h1>
-<h3 align="center">Obessed Designer </h3>
+<h3 align="center">Obsessed Designer </h3>
 
 - ⚡ No lie on that SwiftUI, FramerMotion, and GSAP Grind
 
