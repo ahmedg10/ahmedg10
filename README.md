@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ghaddah</h1>
-<h3 align="center">A passionate student looking to break in as a Software Engineer</h3>
+<h1 align="center">Kid from Africa Trying To Learn The Game</h1>
+<h3 align="center">obessed with design</h3>
 
-- 🔭 I’m currently working on **Building Products For Future of Black Students**
-
-- 🌱 I’m currently learning **Kotlin**
-
-- 💬 Ask me about **System Design or User Facing Design**
+- ⚡ On that SwiftUI and Animation Grind 
 
 - 📫 How to reach me **a.ghaddah@gmail.com**
-
-- ⚡ Fun fact **I love anything about fashion, and still make some my own clothes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
